@@ -17,4 +17,5 @@ In your previously open shell console, run:
 $ npm start
 ```
 
+
 And open a web browser and go to http://localhost:3000. Make sure that your 3000 port is free in your environment.
